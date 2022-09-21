@@ -1,0 +1,91 @@
+.container {
+    align-items: center;
+    margin-top: 2%;
+    /* border: 2px solid black; */
+}
+
+.row {
+    margin: 2%;
+    border: 1px solid whitesmoke;
+    box-shadow: 1rem 1rem 2rem rgba(0, 0, 0, 0.2),
+    -1rem -1rem 2rem rgba(0, 0, 0, 0.2);
+}
+
+.col {
+    /* border: 2px solid coral; */
+}
+
+.col1 {
+    width: 70%;
+    padding: 0%;
+}
+
+.col1 img {
+    width: 95%;
+
+}
+
+.col2 {
+    width: 30%;
+    /* border: 2px solid violet; */
+}
+
+.top {
+    /* border: 2px solid blue; */
+    height:40%;
+    position: relative;
+    overflow: hidden;
+}
+
+.imgPlants {
+    /* border: 2px solid violet; */
+    float: right;
+    width: 100%;
+    text-align: right;
+}
+
+.imgPlants img{
+    width: 40%;
+}
+
+.imgHead {
+    text-align: center;
+}
+
+
+
+.imgHead h4{
+    margin-top: 5%;
+}
+
+.bottom {
+    /* border: 2px solid brown; */
+    height:60%;
+    padding: 3%;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.bottom input {
+    border-radius: 50px;
+    margin-bottom: 5%;
+    /* text-align: center; */
+}
+.bottom input::placeholder {
+padding-left: 5%;
+}
+
+.bottom button {
+    width: 70%;
+    border-radius: 30px;
+}
+
+.para {
+    margin-top: 45%;
+}
+
+.para span {
+text-decoration: underline;
+cursor: pointer;
+}
+
