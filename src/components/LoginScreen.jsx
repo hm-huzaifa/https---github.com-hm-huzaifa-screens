@@ -1,5 +1,5 @@
 import React from "react";
-import "../css/LoginScreen1.css";
+import "../css/LoginScreen.css";
 import frame from "../imgs/frame.png";
 import plants from "../imgs/plants.png";
 import head from "../imgs/head.png";

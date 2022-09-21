@@ -1,10 +1,13 @@
 import "./App.css";
-import LoginScreen1 from "./components/LoginScreen1";
+import React from "react";
+
+import Register from "./components/Register";
 
 function App() {
   return (
     <div>
-      <LoginScreen1 />
+      {/* <LoginScreen /> */}
+      <Register />
     </div>
   );
 }
