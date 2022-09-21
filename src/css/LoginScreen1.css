@@ -6,7 +6,6 @@
 
 .row {
     margin: 2%;
-    border: 1px solid whitesmoke;
     box-shadow: 1rem 1rem 2rem rgba(0, 0, 0, 0.2),
     -1rem -1rem 2rem rgba(0, 0, 0, 0.2);
 }
