@@ -1,0 +1,35 @@
+.container-h {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 85%;
+}
+
+.container-buget {
+    display: flex;
+    justify-content: space-between;
+    width: 13%;
+}
+
+.container-category {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 85%;
+    margin-top: 1%;
+}
+
+.desc {
+    width: 85%;
+    margin: 1%;
+}
+
+.card {
+    background: rgb(201, 201, 204);
+    border: none;
+}
+
+.row {
+    background: rgb(201, 201, 204);
+
+}
